@@ -1,0 +1,6 @@
+github.com/BurntSushi/toml v1.5.0 h1:W5quZX/G/csjUnuI8SUYlsHs9M38FC7znL0lIO+DvMg=
+github.com/BurntSushi/toml v1.5.0/go.mod h1:ukJfTF/6rtPPRCnwkur4qwRxa8vTRFBF0uk2lLoLwho=
+github.com/tetratelabs/wazero v1.9.0 h1:IcZ56OuxrtaEz8UYNRHBrUa9bYeX9oVY93KspZZBf/I=
+github.com/tetratelabs/wazero v1.9.0/go.mod h1:TSbcXCfFP0L2FGkRPxHphadXPjo1T6W+CseNNY7EkjM=
+go.senan.xyz/taglib v0.8.0 h1:wV67dr0TXtMcw+19K5xalSm/VDB7+a235GPNWB7bDQ8=
+go.senan.xyz/taglib v0.8.0/go.mod h1:UMXxjvVuML3bZ63elOoUFtY2ZjwH88KB+DKWfF50ln8=
