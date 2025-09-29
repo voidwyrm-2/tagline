@@ -10,7 +10,13 @@ go run . write Towns.mp3 -f Towns.toml
 
 ## Installation
 
-Installation requires the Go compiler, which can be downloaded at [go.dev](https://go.dev)
+## Releases
+
+Refer to the [releases](https://github.com/voidwyrm-2/tagline/releases/latest).
+
+## Via Go
+
+This requires the Go compiler, which can be downloaded at [go.dev](https://go.dev).
 
 ```bash
 go install github.com/voidwyrm-2/tagline@latest
@@ -30,7 +36,7 @@ go build -o tagline .
 
 `WellTraveledCompanions.png` and `Towns.mp3` are licensed under:
 
-`Copyright (c) 2025 Nuclear Pasta, all rights reserved.`
+`Copyright (c) 2025 Nuclear Pasta, all rights reserved`
 
 Everything else in this repo is licensed under:
 ```
